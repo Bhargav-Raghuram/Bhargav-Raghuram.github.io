@@ -1,2 +1,2 @@
 # Portfolio-Site
-Part of Udacity Full Stack developer nanodegree
+Part of the edwisor MEAN stack course
