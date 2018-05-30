@@ -1,0 +1,63 @@
+body {
+	font-family: 'Times New Roman', sans-serif;
+	color: #2a5f82;
+	font-weight: 800;
+	font-size: 16px;
+}
+
+.row {
+	width: 100%;
+}
+
+.text-muted {
+	color: #2a5f82;
+}
+
+.text-thin {
+	font-weight: 300;
+}
+
+.title-bar, 
+.projects {
+	display: flex;
+}
+
+.title-logo {
+	margin-top: 20px;
+}
+
+.horizontal-rule {
+	background: #2a5f82; 
+	height: 6px;
+}
+
+footer {
+	margin-top: 50px;
+	font-size: 1.2em;
+	font-weight: 400;
+	text-align: center;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+@media screen and (min-width: 453px) {
+	.title-super {
+		font-size: 60px;
+	}
+}
+
+@media screen and (max-width: 453px) {
+	h3 {
+		font-size: 14px;
+	}
+	.project-link {
+		font-size: 12px;
+	}
+}
+
+a {
+	color: #2a5f82;
+
